@@ -1,3 +1,2 @@
-export default function() {
-  return <h1>Primeiro</h1>
-}
+
+export const primeiro = () => <h1>Primeiro</h1>
